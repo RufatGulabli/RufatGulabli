@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rufat GULABLI
 - 👀 I’m interested in JavaScript Technologies.
-- 🌱 I’m currently working with Node.JS, React.JS and related techs.
+- 🌱 I’m currently working as Backend Node.JS Developer.
 - 📫 How to reach me:  gulabli.rufat@gmail.com || WhatsApp: +99477 710 30 90
 
 <!---
